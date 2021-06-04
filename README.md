@@ -1,1 +1,1 @@
-#  https://lisokkozhemjak/-.github/index.html
+#  https://lisokkozhemjak.github/index.html
